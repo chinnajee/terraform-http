@@ -1,0 +1,4 @@
+resource "aws_key_pair" "local2" {
+  key_name   = "local2"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCqH/aKbB/hOQy+4HBzxux+pavda8jebxTjyb4Vp+dk6znuFfsZbRC+eHYCNA6toD/kma/0zyCU7bhTZP4m2NmoTrzMkvzKD6Ex3X0JFcyizLAAiA5ULwk119DLWRR+IQPaRLcGKkDJBl0PInizHAW1iQhCqmbNrf6OxozJ2KAZkfDQPA+m9dx8OA7+pZfNmzVW9C0XJmteXRqnOvJQHHezXfj21/Gn+E1iB5kFVtyME2lJJVRykH0jmWmNwnihbGXh7l9+pN7+razDIYc9aoWoqTHgI03nO2PqHDb0x/65iOL862leK36HUGzEUJrdaFRuwVICY5/FKPHGO2lGQK7eyqXj2ioYsAtt/cDqzNd1jQyu3h30IGKWdXS/25iCKTItJhC68GC87U0V8ZkYnsD7wX6OyQ0Od0EVJBLOTj/kBTZlm0r23Ib2I9uFHBl3Z5T3gmZo92Ho4reEgRR6h3Nh0Y5q+WgHX001Y3KZBqRPSoxGd20wmDGlL8CWt3SZKHs= root@jenkins-server1"
+}
